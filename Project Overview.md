@@ -7,3 +7,6 @@ In this project, I will use logistic regression to predict the probability of fu
 3. Feature Engineering and Feature Selections
 4. Model Building and Predictions
 5. Result Evaluation and Analysis
+
+
+Yuguan Liu also contributed to the first notebook, *Data Exploration and Transformation*.
