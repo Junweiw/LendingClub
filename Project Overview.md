@@ -1,1 +1,3 @@
-# Lending Club
+# Lending Club Project
+
+In this project 
