@@ -1,6 +1,8 @@
 # Lending Club Project
 
-In this project, I used logistic regression to predict the probability of fully paid at the end for each loan application. The process are showcased in multiple notebooks, and they include:
+In this project, I used logistic regression to predict the probability of fully paid at the end for each loan application, and assign credit grades based on the probability. The model predicted results will be compared with original credit grades results with additional analysis.
+
+The process are showcased in multiple notebooks, and they include:
 
 1. Data Exploration and Transformation
 2. Missing Value Analysis and Solutions
