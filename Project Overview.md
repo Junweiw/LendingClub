@@ -1,6 +1,6 @@
 # Lending Club Project
 
-In this project, I will use logistic regression to predict the probability of fully paid at the end for each loan application. The process will be showcased in multiple notebooks, and they include:
+In this project, I used logistic regression to predict the probability of fully paid at the end for each loan application. The process are showcased in multiple notebooks, and they include:
 
 1. Data Exploration and Transformation
 2. Missing Value Analysis and Solutions
@@ -8,5 +8,6 @@ In this project, I will use logistic regression to predict the probability of fu
 4. Model Building and Predictions
 5. Result Evaluation and Analysis
 
+Note: All notebooks will be upload in coming days. Stay Tuned.
 
 Yuguan Liu also contributed to the first notebook, *Data Exploration and Transformation*.
