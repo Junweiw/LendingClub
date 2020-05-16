@@ -3,6 +3,7 @@
 In this project, I used logistic regression to predict the probability of fully paid at the end for each loan based on the loan applications and assigned credit grades based on the probability. The model predicted results will be compared with original credit grades results with additional analysis.
 
 The process are showcased in multiple notebooks, and they include:
+*If you are having trouble to view the notebook on github, please click below links to preview the notebooks*
 
 1. **[Data Exploration and Transformation]**
 2. **[Missing Value Analysis and Solutions]**
