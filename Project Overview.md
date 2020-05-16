@@ -4,7 +4,7 @@ In this project, I used logistic regression to predict the probability of fully 
 
 The process are showcased in multiple notebooks, and they include:
 
-1. Data Exploration and Transformation
+1. [Data Exploration and Transformation]: https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/2.%20Missing_Value_Analysis_and_Solutions.ipynb
 2. Missing Value Analysis and Solutions
 3. Feature Engineering and Feature Selections
 4. Model Building and Predictions
