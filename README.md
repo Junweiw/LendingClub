@@ -7,7 +7,7 @@ The process are showcased in multiple notebooks, and they include:
 
 *If you are having trouble to preview the notebook on github, please click below links to view or save to Google Drive.*
 
-1. **Data Exploration and Transformation:** [[**View**]][1.Data Exploration and Transformation-nbviewer] [[**Download**]][1.Data Exploration and Transformation-Google Colab]
+1. **Data Exploration and Transformation:** [[**View**]][1.Data Exploration and Transformation-nbviewer][[**Download**]][1.Data Exploration and Transformation-Google Colab]
 2. **Missing Value Analysis and Solutions:** [[**View**]][2.Missing Value Analysis and Solutions-nbviewer][[**Download**]][2.Missing Value Analysis and Solutions-Google Colab]
 3. Feature Engineering and Feature Selections *(Coming Soon)*
 4. Model Building and Predictions *(Coming Soon)*
