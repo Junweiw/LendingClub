@@ -1,4 +1,5 @@
 # Lending Club Project
+![Lending Club Logo]
 
 In this project, I used logistic regression to predict the probability of fully paid at the end for each loan based on the loan applications and assigned credit grades based on the probability. The model predicted results will be compared with original credit grades results with additional analysis.
 
@@ -18,3 +19,4 @@ Yuguan Liu also contributed to the first notebook, *Data Exploration and Transfo
 https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/1.%20Data%20Exploration%20%26%20Transformation.ipynb
 [Missing Value Analysis and Solutions]: 
 https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/2.%20Missing%20Value%20Analysis%20and%20Solutions.ipynb
+[Lending Club Logo]: https://github.com/Junweiw/LendingClub/blob/master/Lending-Club-Logo.jpg
