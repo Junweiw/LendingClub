@@ -19,4 +19,4 @@ Yuguan Liu also contributed to the first notebook, *Data Exploration and Transfo
 https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/1.%20Data%20Exploration%20%26%20Transformation.ipynb
 [Missing Value Analysis and Solutions]: 
 https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/2.%20Missing%20Value%20Analysis%20and%20Solutions.ipynb
-[Lending Club Logo]: https://github.com/Junweiw/LendingClub/blob/master/Lending-Club-Logo.jpg
+[Lending Club Logo]: https://github.com/Junweiw/LendingClub/blob/master/Lending%20Club%20Logo.jpg
