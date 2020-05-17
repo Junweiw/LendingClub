@@ -15,6 +15,6 @@ The process are showcased in multiple notebooks, and they include:
 Yuguan Liu also contributed to the first notebook, *Data Exploration and Transformation*.
 
 [Data Exploration and Transformation]: 
-https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/1.%20Data%20Exploration%20%26%20Transformation.ipynb
+https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/1.%20Data%20Exploration%20%26%20Transformation.ipynb
 [Missing Value Analysis and Solutions]: 
-https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/2.%20Missing_Value_Analysis_and_Solutions.ipynb
+https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/2.%20Missing%20Value%20Analysis%20and%20Solutions.ipynb
