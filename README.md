@@ -9,7 +9,7 @@ The process are showcased in multiple notebooks, and they include:
 
 1. **Data Exploration and Transformation:** [[**View**]][1.Data Exploration and Transformation-nbviewer][[**Download**]][1.Data Exploration and Transformation-Google Colab]
 2. **Missing Value Analysis and Solutions:** [[**View**]][2.Missing Value Analysis and Solutions-nbviewer][[**Download**]][2.Missing Value Analysis and Solutions-Google Colab]
-3. Feature Engineering and Feature Selections *(Coming Soon)*
+3. **Feature Engineering and Feature Selections** [[**View**]][3.Feature Engineering and Feature Selections-nbviewer][[**Download**]][3.Feature Engineering and Feature Selections-Google Colab]
 4. Model Building and Predictions *(Coming Soon)*
 5. Result Evaluation and Analysis *(Coming Soon)*
 
@@ -23,5 +23,11 @@ https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/1.%20Da
 https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/2.%20Missing%20Value%20Analysis%20and%20Solutions.ipynb
 [2.Missing Value Analysis and Solutions-Google Colab]: 
 https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/2.%20Missing%20Value%20Analysis%20and%20Solutions.ipynb
+[3.Feature Engineering and Feature Selections-nbviewer]:
+https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/3.%20Feature%20Engineering%20%26%20Feature%20Selections.ipynb
+[3.Feature Engineering and Feature Selections-Google Colab]:
+https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/3.%20Feature%20Engineering%20%26%20Feature%20Selections.ipynb
+
+
 
 [Lending Club Logo]: https://github.com/Junweiw/LendingClub/blob/master/Lending%20Club%20Logo.jpg
