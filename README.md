@@ -12,7 +12,7 @@ The process are showcased in multiple notebooks, and they include:
 1. **Data Exploration and Transformation:** [[**View**]][1.Data Exploration and Transformation-nbviewer][[**Download**]][1.Data Exploration and Transformation-Google Colab]
 2. **Missing Value Analysis and Solutions:** [[**View**]][2.Missing Value Analysis and Solutions-nbviewer][[**Download**]][2.Missing Value Analysis and Solutions-Google Colab]
 3. **Feature Engineering and Feature Selections** [[**View**]][3.Feature Engineering and Feature Selections-nbviewer][[**Download**]][3.Feature Engineering and Feature Selections-Google Colab]
-4. **Training Data Prediction and Business Impact Analysis** 
+4. **Training Data Prediction and Business Impact Analysis** [[**View**]][4.Training Data Prediction and Business Impact Analysis-nbviewer][[**Download**]][4.Training Data Prediction and Business Impact Analysis-Google Colab]
 
 
 Yuguan Liu also contributed to the first notebook, *Data Exploration and Transformation*.
@@ -29,7 +29,9 @@ https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/2.%20Mi
 https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/3.%20Feature%20Engineering%20%26%20Feature%20Selections.ipynb
 [3.Feature Engineering and Feature Selections-Google Colab]:
 https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/3.%20Feature%20Engineering%20%26%20Feature%20Selections.ipynb
+[4.Training Data Prediction and Business Impact Analysis-nbviewer]:
 
-
+[4.Training Data Prediction and Business Impact Analysis-Google Colab]:
+https://colab.research.google.com/drive/1tduXlHsLBv-hVefauqvJcUe0dDymOvvq#scrollTo=r_T-vYwZiUqH
 
 [Lending Club Logo]: https://github.com/Junweiw/LendingClub/blob/master/Lending%20Club%20Logo.jpg
