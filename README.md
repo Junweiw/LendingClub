@@ -30,7 +30,7 @@ https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/3.%20Feature
 [3.Feature Engineering and Feature Selections-Google Colab]:
 https://colab.research.google.com/github/Junweiw/LendingClub/blob/master/3.%20Feature%20Engineering%20%26%20Feature%20Selections.ipynb
 [4.Training Data Prediction and Business Impact Analysis-nbviewer]:
-
+https://nbviewer.jupyter.org/github/Junweiw/LendingClub/blob/master/4.%20Training%20Data%20Prediction%20and%20Business%20Impact%20Analysis.ipynb
 [4.Training Data Prediction and Business Impact Analysis-Google Colab]:
 https://colab.research.google.com/drive/1tduXlHsLBv-hVefauqvJcUe0dDymOvvq#scrollTo=r_T-vYwZiUqH
 
